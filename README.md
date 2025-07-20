@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Привіт, я Артем Білянський
 
-<!--
-**ArtemTntu/ArtemTntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Студент 3-го курсу**  
+**Тернопільський національний технічний університет імені Івана Пулюя**  
+Спеціальність: *Комп’ютерні науки*  
+Очікувана дата випуску: **червень 2026**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навички
+
+- **Дизайн**: Photoshop, Figma, Cinema 4D, After Effects  
+- **Інше**: MS Office, командна робота, креативність, пунктуальність
+
+---
+
+## 📜 Курси
+
+🎓 Онлайн-курс: *2D Motion Design – Adobe After Effects Advanced*  
+📍 Школа: FreelStep School (жовтень–листопад 2024)
+
+---
+
+## 🌍 Мови
+
+- 🇺🇦 Українська – рідна  
+- 🇬🇧 Англійська – Intermediate  
+
+---
+
+## 🎮 Інтереси
+
+🎮 Комп’ютерні ігри  
+🏀 Баскетбол, волейбол  
+🪴 Догляд за рослинами  
+🎨 Графіка та моушн-дизайн
+
+---
+
+## 📫 Контактна інформація
+
+- **Email:** artembilianskyi@gmail.com  
+- **GitHub:** [github.com/ArtemTntu](https://github.com/ArtemTntu)  
